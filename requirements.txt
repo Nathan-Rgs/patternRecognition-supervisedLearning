@@ -1,3 +1,6 @@
+# Notebooks
+ipykernel
+
 # Script raw data download
 kaggle==1.6.17
 
@@ -6,8 +9,11 @@ pandas==2.2.3
 numpy==1.26.4
 matplotlib==3.9.2
 seaborn==0.13.2
+imbalanced-learn==0.12.4
 
 # Machine Learning
 scikit-learn==1.5.2
 tensorflow # for CPU and GPU
 keras==3.6.0
+
+seaborn
